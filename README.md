@@ -150,7 +150,7 @@ This analysis addresses a real-world scenario where raw CSV data from a legacy r
 Messy Retail Audit/
 ├── README.md                          # This file
 ├── Messy Retail Audit.ipynb          # Main analysis notebook
-└── datasets/
+└── ../datasets/                       # Parent directory
     └── bravehart101/sample-supermarket-dataset/
         └── versions/1/
             └── SampleSuperstore.csv   # Source data
